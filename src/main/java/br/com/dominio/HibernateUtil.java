@@ -28,7 +28,7 @@ public class HibernateUtil {
 			System.err.println("A fábrica de sessões não pode ser criada." + ex);
 			throw new ExceptionInInitializerError(ex);
 		}
-	}
+	}/*+1+1*/
 }
 /*1+1*/
 	/* TESTE */
