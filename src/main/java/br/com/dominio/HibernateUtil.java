@@ -33,3 +33,5 @@ public class HibernateUtil {
 
 	/* TESTE */
 /*teste2*/
+
+/*teste3*/
